@@ -32,5 +32,6 @@ close codex, open it again so it updates the new files, check if miplevels are s
 put both files snow_remove_renamed.ytd + snowcov-xmas-secondary-numer.ytd (eg:snowcov-xmas-121 & snowcov-xmas-secondary-121) on your streaming resource and tha's it! 
 No snow coverage in this area!
 
+MloHub team
 
 
