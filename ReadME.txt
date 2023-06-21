@@ -1,6 +1,6 @@
 NO SNOW for ymaps 
 
-remove snow coverage from the floor in any map are, ymaps or shells without portal settings
+remove snow coverage from the floor in any map area, ymaps buildings or shells without portal settings
 
 video tutorial
 https://streamable.com/akeej8
