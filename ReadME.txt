@@ -27,7 +27,7 @@ Then, on codex go to the detail window of this file and you must edit the miplev
 Also edit the VFT (also on details) from 0 to this: 5378212016 (probably game wont load this VFT detail but make it this way)
 Save it with the name you will need: example snowcov-xmas-secondary-121.ytd
 
-Close codex, open it again so it updates the new files, check if miplevels are set to 1 and VFT 5378212016 and if all is correct
+Close Codex, open it again so it updates the new files, check if miplevels are set to 1 and VFT 5378212016 and if all is correct
 
 Put both files snow_remove_renamed.ytd + snowcov-xmas-secondary-numer.ytd (eg:snowcov-xmas-121 & snowcov-xmas-secondary-121) on your streaming resource and tha's it! 
 No snow coverage in this area!
@@ -38,3 +38,8 @@ Place them on your stream resource and go check Emerald Ranch!
 MloHub team
 https://discord.gg/FbUTJsRmHD
 
+YourMAPS - Mlo's & Custom props for RedM
+https://discord.gg/9rvxe8Y7UJ
+https://yourmaps.tebex.io/
+
+To get CodeX Join https://discord.gg/codewalker & become patreon 
