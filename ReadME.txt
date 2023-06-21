@@ -32,7 +32,8 @@ Close codex, open it again so it updates the new files, check if miplevels are s
 Put both files snow_remove_renamed.ytd + snowcov-xmas-secondary-numer.ytd (eg:snowcov-xmas-121 & snowcov-xmas-secondary-121) on your streaming resource and tha's it! 
 No snow coverage in this area!
 
-If you want to try out before, use the tutorial edited files before. Place them on your stream resource on go check Emerald Ranch!
+If you want to try it out before, use the tutorial edited files .YTD  
+Place them on your stream resource on go check Emerald Ranch!
 
 MloHub team
 
