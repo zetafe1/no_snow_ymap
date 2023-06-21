@@ -33,8 +33,8 @@ Put both files snow_remove_renamed.ytd + snowcov-xmas-secondary-numer.ytd (eg:sn
 No snow coverage in this area!
 
 If you want to try it out before, use the tutorial edited files .YTD  
-Place them on your stream resource on go check Emerald Ranch!
+Place them on your stream resource and go check Emerald Ranch!
 
 MloHub team
-
+https://discord.gg/FbUTJsRmHD
 
