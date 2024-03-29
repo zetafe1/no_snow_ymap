@@ -35,9 +35,6 @@ No snow coverage in this area!
 If you want to try it out before, use the tutorial edited files .YTD  
 Place them on your stream resource and go check Emerald Ranch!
 
-MloHub team
-https://discord.gg/FbUTJsRmHD
-
 YourMAPS - Mlo's & Custom props for RedM
 https://discord.gg/9rvxe8Y7UJ
 https://yourmaps.tebex.io/
